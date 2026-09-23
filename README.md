@@ -1,12 +1,13 @@
 
 <div align="justify">
 
-# Documentación para usuarios
+# # Manual de usuario del cotizador
 
-## Inicio y Glosario Rápido
+## 1. Descripción de la plataforma
 
-### ¿Qué es la plataforma?
-Es un cotizador en línea para la generación de su ticket de compra de manera inmediata con detalles sobre su cotización y así obtener su producto fácil y rápido sin contratiempos, para esto debe ingresar todos los datos requeridos de manera completa y precisa en el formato cotizador y seguir los pasos de manera correcta.
+La plataforma permite solicitar cotizaciones de oligonucleótidos y otros productos de síntesis mediante una plantilla de Excel. El usuario completa los datos de la solicitud, carga el archivo en el portal y lo envía para su procesamiento.
+
+Los productos compatibles con la cotización automática se procesan mediante el sistema. Algunos productos requieren una cotización manual por parte del equipo de ventas; estas excepciones se describen en la sección 3.5.
 
 ### Guía de Campos:
 
