@@ -1,7 +1,7 @@
 
 <div align="justify">
 
-# Documentación para usuarios
+# Manual de usuario del cotizador
 
 ## Inicio y Glosario Rápido
 
